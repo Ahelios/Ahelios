@@ -34,5 +34,3 @@ I'm Arturs, a software developer with experience in building responsive applicat
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
-
-💬 Feel free to connect with me!  
