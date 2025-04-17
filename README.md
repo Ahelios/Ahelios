@@ -2,7 +2,7 @@
 
 I'm Arturs, a software developer with experience in building responsive applications, working with REST APIs, and Node.js.  
 
-🚀 Currently, I'm tipping my toes into GO and Next.js.
+🚀 Currently, I'm tipping my toes into GO and PHP.
 
 🔍 Fun fact: I also have experience in manual and automation QA jobs.  
 
